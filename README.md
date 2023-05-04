@@ -1,15 +1,11 @@
 <!-- Header -->
 <p align="center">
-    <img src="<div style="https://plus.google.com/+DunkenKBliths/posts/egkcvLY2oqk">
+    <img src="<div style="">
 </p>
 
 <!-- Badges -->
 <p align="center">
-    <img src="https://img.shields.io/badge/Hacker-%23111111.svg?&style=for-the-badge&logo=hackerone&logoColor=white">
-    <img src="https://img.shields.io/badge/Pentester-%23111111.svg?&style=for-the-badge&logo=Kali-Linux&logoColor=white">
     <img src="https://img.shields.io/badge/Python-%23111111.svg?&style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-%23111111.svg?&style=for-the-badge&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/React-%23111111.svg?&style=for-the-badge&logo=react&logoColor=white">
 </p>
 
 <!-- Introduction -->
