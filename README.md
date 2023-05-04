@@ -14,8 +14,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MrShadowDev&theme=radical&show_icons=true&count_private=true">
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MrShadowDev&theme=radical&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=luissandon&theme=radical&show_icons=true&count_private=true">
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=luissandon&theme=radical&layout=compact">
 </p>
 
 <!-- Random Quote -->
