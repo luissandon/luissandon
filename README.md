@@ -1,8 +1,3 @@
-<!-- Header -->
-<p align="center">
-    <img src="https://giphy.com/gifs/hack-lp3GUtG2waC88" alt="MrShadowDev banner">
-</p>
-
 
 <!-- Badges -->
 <p align="center">
