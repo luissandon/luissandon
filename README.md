@@ -9,7 +9,7 @@
     <img src="https://raw.githubusercontent.com/MrShadowDev/MrShadowDev/main/introduction.gif" alt="Introduction gif">
 </p>
 <p align="center">
-    Hey there, I'm <b>MrShadowDev</b> - a passionate hacker and security enthusiast. I love learning new technologies and tools that help me with my ethical hacking journey. My primary focus is on penetration testing, vulnerability assessment, and web application security.
+    Hey there, I'm <b>luissandon</b> -a passionate software development enthusiast. I love learning new technologies and tools to help me on my journey down this path of technology. My main focus is on design and architecture.
 </p>
 
 <!-- GitHub Stats -->
